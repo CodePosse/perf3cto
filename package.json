@@ -1,0 +1,19 @@
+{
+  "name": "perf3cto",
+  "version": "1.0.0",
+  "description": "perf3CTO site",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CodePosse/perf3cto.git"
+  },
+  "author": "Tim Hunold",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CodePosse/perf3cto/issues"
+  },
+  "homepage": "https://github.com/CodePosse/perf3cto#readme"
+}
