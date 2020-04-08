@@ -3,8 +3,8 @@ html {font-size: 14px;}
 body {font-family: "Poppins",Sans-serif;line-height: 1.6;font-weight: normal;font-size: 16px;color: #19232d;}
 body p {margin-bottom: 25px;}
 body section {padding: 66px 0;}
-a {color: #0294c9;text-decoration: none;-webkit-transition: all .3s ease 0s;-moz-transition: all .3s ease 0s;-o-transition: all .3s ease 0s;transition: all .3s ease 0s;}
-a:hover, a:focus {color: #0294c9;text-decoration: underline;}
+a {color: #00aded;text-decoration: none;-webkit-transition: all .3s ease 0s;-moz-transition: all .3s ease 0s;-o-transition: all .3s ease 0s;transition: all .3s ease 0s;}
+a:hover, a:focus {color: #00aded;text-decoration: underline;}
 .h1, .h2, .h3, h1, h2, h3, h4 {font-family: "Raleway",Sans-serif;font-weight: 600;letter-spacing: 1.25px;}
 h2.bigtitle {font-weight: normal;font-size: 3rem;text-transform: none;}
 h2.bigtitle span {background: none;padding: 0 15px;position: relative;z-index: 1;}

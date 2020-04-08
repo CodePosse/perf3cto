@@ -1,0 +1,39 @@
+.sp-easy-accordion * {box-sizing: border-box;padding: 0;margin: 0;}
+.eap_section_title {font-size: 24px;font-weight: 400;margin-bottom: 30px;}
+.sp-easy-accordion a:focus, .sp-easy-accordion a {box-shadow: none !important;outline: none;}
+.sp-easy-accordion .ea-header:before {content: none;}
+.sp-easy-accordion .ea-header {margin-top: 0;}
+.sp-easy-accordion .sp-ea-single .ea-header {margin-bottom: 0;}
+.sp-easy-accordion .sp-ea-single .ea-header a {display: block;text-decoration: none;cursor: pointer;color: #444;font-size: 20px;line-height: 30px;box-shadow: none;}
+.sp-easy-accordion .card {border: none;border-radius: 0;}
+.sp-easy-accordion .sp-ea-single .ea-header a .ea-expand-icon {color: #444;margin-right: 10px;text-align: center;line-height: inherit;font-size: 20px;}
+.sp-easy-accordion .sp-ea-single {background: #efefef;margin-bottom: 10px;border-radius: 3px;}
+.sp-easy-accordion .sp-ea-single .ea-body {padding: 15px;background: #fff;border-top: none;}
+.sp-easy-accordion .sp-ea-single .ea-body p:last-of-type {padding-bottom: 0;margin-bottom: 0;}
+.sp-ea-one.sp-easy-accordion .sp-ea-single .ea-body {padding: 15px;}
+.sp-ea-one.sp-easy-accordion .sp-ea-single .ea-header a {padding: 15px;color: #444;}
+.sp-ea-one.sp-easy-accordion .sp-ea-single .ea-header a .ea-expand-icon {color: #444;font-size: 20px;}
+.ea-youtube-wraper {position: relative;padding-bottom: 56.25%;padding-top: 30px;height: 0;overflow: hidden;}
+.ea-youtube-wraper iframe, .ea-youtube-wraper object, .ea-youtube-wraper embed {position: absolute;top: 0;left: 0;width: 100%;height: 100%;}
+.spcollapse:not(.show) {display: none;}
+.spcollapsing {position: relative;height: 0;overflow: hidden;transition-property: height;transition-duration: .5s;transition-timing-function: linear;}
+div.wpcf7 {margin: 0;padding: 0;}
+div.wpcf7 .screen-reader-response {position: absolute;overflow: hidden;clip: rect(1px,1px,1px,1px);height: 1px;width: 1px;margin: 0;padding: 0;border: 0;}
+div.wpcf7-response-output {margin: 2em .5em 1em;padding: .2em 1em;border: 2px solid red;}
+div.wpcf7-mail-sent-ok {border: 2px solid #398f14;}
+div.wpcf7-mail-sent-ng, div.wpcf7-aborted {border: 2px solid red;}
+div.wpcf7-spam-blocked {border: 2px solid #ffa500;}
+div.wpcf7-validation-errors, div.wpcf7-acceptance-missing {border: 2px solid #f7e700;}
+.wpcf7-form-control-wrap {position: relative;}
+span.wpcf7-not-valid-tip {color: red;font-size: 1em;font-weight: 400;display: block;}
+.use-floating-validation-tip span.wpcf7-not-valid-tip {position: absolute;top: 20%;left: 20%;z-index: 100;border: 1px solid red;background: #fff;padding: .2em .8em;}
+span.wpcf7-list-item {display: inline-block;margin: 0 0 0 1em;}
+span.wpcf7-list-item-label::before, span.wpcf7-list-item-label::after {content: " ";}
+.wpcf7-display-none {display: none;}
+div.wpcf7 .ajax-loader {visibility: hidden;display: inline-block;background-image: url("/wp-content/plugins/contact-form-7/includes/css/../../images/ajax-loader.gif");width: 16px;height: 16px;border: none;padding: 0;margin: 0 0 0 4px;vertical-align: middle;}
+div.wpcf7 .ajax-loader.is-active {visibility: visible;}
+div.wpcf7 div.ajax-error {display: none;}
+div.wpcf7 .placeheld {color: #888;}
+div.wpcf7 input[type="file"] {cursor: pointer;}
+div.wpcf7 input[type="file"]:disabled {cursor: default;}
+div.wpcf7 .wpcf7-submit:disabled {cursor: not-allowed;}

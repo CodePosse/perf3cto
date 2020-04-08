@@ -1,0 +1,1 @@
+{"request":{"hurl":"http:\/\/fd\/wp-content\/plugins\/fd-customizations\/fd.css","inline":"","disable_minification":false,"type":"css","handle":"fdcss"},"log":"\/wp-content\/plugins\/fd-customizations\/fd.css\n","code":"#benefits li{padding-top:.5em;padding-bottom:.5em;padding-left:1em}","status":true}
